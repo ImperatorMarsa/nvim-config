@@ -133,6 +133,10 @@ return {
     'folke/neodev.nvim',
     -- -- --
 
+    -- Groovy
+    "vim-scripts/groovy.vim",
+    -- -- --
+
     -- code completion
     {
         'hrsh7th/nvim-cmp',
